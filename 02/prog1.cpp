@@ -1,4 +1,4 @@
-// This program checks exercises 2.3-2.4
+// Exercises 2.3 and 2.4 (p.38)
 #include <iostream>
 #include <ostream>
 
