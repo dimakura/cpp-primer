@@ -1,6 +1,5 @@
 // References (pp. 50-51)
 #include <iostream>
-#include <ostream>
 
 int main() {
   // ex 2.16

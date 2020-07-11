@@ -1,6 +1,5 @@
 // Exercises 2.3 and 2.4 (p.38)
 #include <iostream>
-#include <ostream>
 
 int main() {
   unsigned u = 10, u2 = 42;

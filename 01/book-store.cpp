@@ -1,6 +1,5 @@
 #include "Sales_item.h"
 #include <iostream>
-#include <ostream>
 
 int main() {
   Sales_item total;

@@ -1,6 +1,5 @@
 // Pointers (pp. 52-59)
 #include <iostream>
-#include <ostream>
 
 int main() {
   // ex. 2.18
