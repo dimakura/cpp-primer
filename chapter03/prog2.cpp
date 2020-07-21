@@ -1,3 +1,4 @@
+#include <cstdio>
 #include <iostream>
 #include <ostream>
 #include <string>
@@ -9,7 +10,10 @@ using namespace std;
 int main() {
   string s;
   cin >> s;
-  cout << s << endl;
+
+  cout << "String was: " << s  << endl
+       << s.size() << endl 
+       << s.empty() << endl;
 
   return 0;
 }
