@@ -10,7 +10,8 @@ using namespace std;
 int main() {
   string s;
   while (getline(cin, s)) {
-    cout << s << endl;
+    string::size_type len{s.length()}; // length is of string::size_type
+    cout << s << " (" << len << ")" << endl;
   }
 
   return 0;
