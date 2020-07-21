@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
   string s;
-  cin >> s;
+  cin >> s; // use getline to get string with whitespaces
 
   cout << "String was: " << s  << endl
        << s.size() << endl 
